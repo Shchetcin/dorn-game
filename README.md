@@ -5,10 +5,10 @@
 
 структура проекта 
 
-main.lua<br> 
-└─scene <br>
-      ├─HC
-      ├─player
+>main.lua
+>>└─scene
+>>>      ├─HC
+>>>      ├─player
       │    ├─
       │     
       ├─
