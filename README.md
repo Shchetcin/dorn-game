@@ -1,6 +1,6 @@
 # dorn-game
 
-[![Discord](https://discord.gg/ZPz3zJD](https://discord.gg/ZPz3zJD)
+[![Discord](http://img.shields.io/badge/license-MIT-70a1fb.svg?style=flat](https://discord.gg/ZPz3zJD)
 
 
 структура проекта 
