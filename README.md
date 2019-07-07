@@ -6,7 +6,7 @@
 структура проекта 
 
 main.lua<br> 
-└─scene
+└─scene <br>
       ├─HC
       ├─player
       │    ├─
